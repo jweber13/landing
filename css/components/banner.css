@@ -1,0 +1,22 @@
+.banner {
+  padding: 250px 0;
+  background-size: cover;
+  background-position: center ;
+  margin-bottom: 32px;
+}
+
+.banner-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  background-color: rgb(2,2,4, 0.6);
+  height: 300px;
+}
+
+.banner h3 {
+  font-family: 'Barlow Condensed', sans-serif;
+  color:white;
+  font-size: 32px;
+}

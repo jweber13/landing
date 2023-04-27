@@ -1,0 +1,12 @@
+.btn-primary {
+  color: #80ce87;
+  background-color: #204829;
+  font-family: 'Orbitron', sans-serif;
+  padding: 16px 24px;
+  border-radius: 8px;
+  transition: background-color 1s;
+}
+
+.btn-primary:hover {
+  background-color: #020204;
+}
